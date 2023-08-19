@@ -1,0 +1,33 @@
+# Arduino specific
+/build/
+*.hex
+*.elf
+*.eep
+*.bin
+*.map
+*.lst
+
+# Compiled Python files
+__pycache__/
+
+# Compiled Java classes
+*.class
+
+# Editor-specific
+.vscode/
+.idea/
+*.swp
+*~
+
+# Mac specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+
+# Custom log files
+*.log
+
+config.h
+
+toPROGMEM.py
